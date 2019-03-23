@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лабараторная работа 3", "Лабараторная работа 3\Лабараторная работа 3.csproj", "{47DAC751-0417-4F6E-9211-CC52D1166D80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DAC751-0417-4F6E-9211-CC52D1166D80}.Debug|x86.ActiveCfg = Debug|x86
+		{47DAC751-0417-4F6E-9211-CC52D1166D80}.Debug|x86.Build.0 = Debug|x86
+		{47DAC751-0417-4F6E-9211-CC52D1166D80}.Release|x86.ActiveCfg = Release|x86
+		{47DAC751-0417-4F6E-9211-CC52D1166D80}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
